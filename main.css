@@ -1,5 +1,5 @@
 div {
-  border: 20px solid #000; /* this is short hand for setting
+  border: 20px solid rgb(167, 164, 164); /* this is short hand for setting
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
   min-width: 20em; /* the two min styles make the shape */
@@ -9,3 +9,32 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
+
+#violet {
+  border-top: 20px solid violet;
+}
+
+#indigo {
+  border-top: 20px solid indigo;
+}
+
+#blue {
+  border-top: 20px solid blue;
+}
+
+#green {
+  border-top: 20px solid green;
+}
+#yellow {
+  border-top: 20px solid yellow;
+}
+
+#orange {
+  border-top: 20px solid orange;
+}
+#red {
+  border-top: 20px solid red;
+}
+/* To get ROYGBIV onto our rainbow we'll need seven hex colors. Red:
+`#f00`; Orange: `#ffa500`; Yellow: `#ff0`; Green: `#00bc3f`; Blue: `#06f`;
+Indigo: `#8a2be2`; Violet: `#d300c9` */
