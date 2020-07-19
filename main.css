@@ -1,3 +1,27 @@
+/*To get ROYGBIV onto our rainbow we'll need seven hex colors.
+Red: #f00; Orange: #ffa500; Yellow: #ff0; Green: #00bc3f; Blue: #06f; Indigo: #8a2be2; Violet: #d300c9
+*/
+#violet{
+  background-color:  #d300c9;
+}
+#indigo{
+  background-color: #8a2be2;
+}
+#blue{
+  background-color: #06f;
+}
+#green{
+  background-color:#00bc3f;
+}
+#yellow{
+  background-color: #ff0;
+}
+#orange{
+  background-color: #ffa500;
+}
+#red{
+  background-color: #f00;
+}
 div {
   border: 20px solid #000; /* this is short hand for setting
                             the border's width, its type, and color */
